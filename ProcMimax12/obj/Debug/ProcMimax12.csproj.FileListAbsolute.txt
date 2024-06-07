@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\bin\Debug\ProcMimax12.exe.config
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\bin\Debug\ProcMimax12.exe
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\bin\Debug\ProcMimax12.pdb
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\obj\Debug\ProcMimax12.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\obj\Debug\ProcMimax12.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\obj\Debug\ProcMimax12.exe
+C:\Users\Mark\source\repos\ProcMimax12\ProcMimax12\obj\Debug\ProcMimax12.pdb
